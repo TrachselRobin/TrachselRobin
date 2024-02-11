@@ -6,4 +6,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoctorProgrammer&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoctorProgrammer&theme=apprentice&exclude=)      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DoctorProgrammer&theme=apprentice&exclude=)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DoctorProgrammer&theme=apprentice)      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DoctorProgrammer&theme=apprentice&utcOffset=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DoctorProgrammer&theme=apprentice)      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DoctorProgrammer&theme=apprentice&utcOffset=1)
