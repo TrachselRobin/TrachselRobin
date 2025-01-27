@@ -3,7 +3,7 @@
   Profil-Aufrufe: <br>
   <img src="https://profile-counter.glitch.me/TrachselRobin/count.svg" width="200px">
   
-  ![GitHub Streak](<img src="https://github-readme-stats.vercel.app/api?username=TrachselRobin&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="TrachselRobin's GitHub Stats" />)
+  <img src="https://github-readme-stats.vercel.app/api?username=TrachselRobin&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="TrachselRobin's GitHub Stats" /> <br>
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrachselRobin&theme=apprentice)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrachselRobin&theme=apprentice&exclude=)      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrachselRobin&theme=apprentice&exclude=)
